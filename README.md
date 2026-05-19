@@ -9,6 +9,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM)
 
+
+
 </div>
 
 ---
@@ -82,9 +84,9 @@ Breve descrição do que faz, decisões técnicas que você tomou e por quê.
 
 <div align="center">
 
-![Jean Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Jean Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlngomes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlngomes&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -95,9 +97,9 @@ Breve descrição do que faz, decisões técnicas que você tomou e por quê.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlngomes/jlngomes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlngomes/jlngomes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jlngomes/jlngomes/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
