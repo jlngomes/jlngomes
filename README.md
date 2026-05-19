@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jean+Luca" alt="Jean Luca" />
-### Software Engineering Student · Backend & Systems Focus
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Jean+Luca+Novaes+Gomes" alt="Jean Luca Novaes Gomes" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%C2%B7+Backend+%26+Systems+Focus" alt="subtitle" />
+
+<br/>
 
 *Building systems that actually work — one bug at a time.*
 
