@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jean Luca
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jean+Luca" alt="Jean Luca" />
 ### Software Engineering Student · Backend & Systems Focus
 
 *Building systems that actually work — one bug at a time.*
@@ -77,18 +77,6 @@ Breve descrição do que faz, decisões técnicas que você tomou e por quê.
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](LINK)
 -->
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Jean Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlngomes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlngomes&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
